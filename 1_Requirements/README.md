@@ -4,8 +4,38 @@ Zoological parks provide an opportunity to open a whole new world of curiosity a
 ## 2. PROBLEM STATEMENT
 The main problem and motivation is basically lack of information about the various animals present in the zoo. This project is based on the various information related to the animal which are present in the zoo. Such as when we visit any zoo then we are not aware that which animal is placed at which place or we dont know the loci of that particular animal. To know this information, system looks for a data present in the zoo, but with this information system we can easily search the zoo by filling the name of the animal, such as Lion, Tiger, etc. then by running this user command one can easily find the block in which the animal is present. 
 
-## 3. REQUIREMNTS
-### 3.1 High level requiremnts
+## 3. SWOT ANALYSIS
+### Strengths
+* Efficient way of storing and retriving animal data.
+* Ease of usage.
+* Better response time.
+* Monitors the current status of animals.
+
+### Opportunities
+* Able to create Zoo maintenence robot using this system.
+* Able to monitor health of the animals in the zoo.
+* After locating an animal able to show the path to reach that location.
+
+
+
+### Weakness
+* Unable to provide exact loci of particular animal.
+* Not fully automated system.
+
+## 4. 4 W's and 1 H
+### What?
+This system used to store and retrive the animal data accornding to user commands.
+### Why?
+To have an easy access to animal data and their blocks.
+### Who?
+This system keeps record of animals and can be accessed by people.
+### Where?
+In ZOO's.
+### How?
+It searchs for the data present to show the user as required.
+
+## 5. REQUIREMNTS
+### 5.1 High level requiremnts
 
 | Test ID | Description | Category | 
 |---------|-------------|----------|
@@ -14,7 +44,7 @@ The main problem and motivation is basically lack of information about the vario
 |HLR_3|Check for Animals presence|Functional|
 |HLR_4|Search for animal|Functional|
 
-### 3.2          Low level requirements
+### 5.2          Low level requirements
 
 | Test ID | Description |HLR ID | Category | 
 |---------|-------------|-------|----------|
