@@ -22,18 +22,8 @@ The main problem and motivation is basically lack of information about the vario
 * Unable to provide exact loci of particular animal.
 * Not fully automated system.
 
-## 4. 4 W's and 1 H
-### What?
-This system used to store and retrive the animal data accornding to user commands.
-### Why?
-To have an easy access to animal data and their blocks.
-### Who?
-This system keeps record of animals and can be accessed by people.
-### Where?
-In ZOO's.
-### How?
-It searchs for the data present to show the user as required.
-
+## 4. 5 W's and 1 H
+![Untitled](https://user-images.githubusercontent.com/98843684/161937415-c99cfe88-5a6f-4d92-a46c-6aa3f7b7fe37.png)
 ## 5. REQUIREMNTS
 ### 5.1 High level requiremnts
 
