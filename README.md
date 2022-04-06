@@ -10,8 +10,13 @@ The main problem and motivation is basically lack of information about the vario
 * To locate the animals present in the zoo.
 * To Check for Animals presence in the zoo.
 * To search for animals in the zoo.
-## 5. REQUIREMNTS
-### 5.1 High level requiremnts
+## 4. SWOT ANALYSES
+![SWOT drawio](https://user-images.githubusercontent.com/98843684/161975649-5c920594-4510-4b6a-9385-c1801e723ff6.png)
+## 5.5 W's and 1 H
+![Untitled](https://user-images.githubusercontent.com/98843684/161975787-27e2019b-13d5-4a80-aac5-24085dfa51ee.png)
+
+## 6. REQUIREMNTS
+### 6.1 High level requiremnts
 
 | Test ID | Description | Category | 
 |---------|-------------|----------|
@@ -20,7 +25,7 @@ The main problem and motivation is basically lack of information about the vario
 |HLR_3|Check for Animals presence|Functional|
 |HLR_4|Search for animal|Functional|
 
-### 5.2          Low level requirements
+### 6.2          Low level requirements
 
 | Test ID | Description |HLR ID | Category | 
 |---------|-------------|-------|----------|
