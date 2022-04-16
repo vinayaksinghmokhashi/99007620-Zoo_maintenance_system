@@ -35,3 +35,6 @@ The main problem and motivation is basically lack of information about the vario
 |LLR_4|View Animal details Block wise|HLR_2|Technical|
 |LLR_5|Display Animal present in the zoo or not|HLR_3|Technical|
 |LLR_6|Search through Animal data details present in the system|HLR_4|Technical|
+
+## 7. ## pylint
+![Screenshot from 2022-04-16 16-56-14](https://user-images.githubusercontent.com/98843684/163673208-b1463751-9bcf-4e44-9e7e-434bfd262925.png)
