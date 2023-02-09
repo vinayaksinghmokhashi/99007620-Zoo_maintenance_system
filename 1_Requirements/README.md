@@ -7,6 +7,9 @@ The main problem and motivation is basically lack of information about the vario
 ## 3. SWOT ANALYSIS
 ![SWOT drawio](https://user-images.githubusercontent.com/98843684/161975511-3061c652-7ed4-49e4-a9bc-772cfbfc56a2.png)
 
+...
+...
+
 ### Strengths
 * Efficient way of storing and retriving animal data.
 * Ease of usage.
